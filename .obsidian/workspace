@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a09de5e2a00e157d",
+        "id": "d2d26397592c62e8",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -45,7 +45,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 215
   },
   "right": {
     "id": "062cae3342fd5134",
@@ -67,10 +67,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 294,
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Data preprocessing.md",
+    "One-hot Encoding.md",
+    "Template_Folder/template_notes.md",
+    "Template_Folder/Untitled.md",
+    "One-hot.md",
+    "Untitled.md",
+    "Markdown Notes.md",
     "README.md"
   ]
 }
