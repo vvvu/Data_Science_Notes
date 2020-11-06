@@ -1,3 +1,4 @@
+# One-hot Encoding
 ## 1. Definition
 - 定义：One-hot编码，又称为一位有效编码。Data Preprocessing的常见方式
 - 方式：采用N位状态寄存器来对N个状态进行编码，**任意时刻只有一位有效**

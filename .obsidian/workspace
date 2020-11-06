@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d2d26397592c62e8",
+        "id": "d4dd5299a6c2b328",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Sigmoid Function.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Sigmoid Function.md"
+              }
             }
           }
         ]
@@ -71,13 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Data preprocessing.md",
+    "Sigmoid Function.md",
+    "Activation Function.md",
+    "Data Preprocessing.md",
+    "Bayes's Theorem.md",
+    "Gaussian Probability Distribution.md",
     "One-hot Encoding.md",
-    "Template_Folder/template_notes.md",
-    "Template_Folder/Untitled.md",
-    "One-hot.md",
-    "Untitled.md",
-    "Markdown Notes.md",
-    "README.md"
+    "Data preprocessing.md",
+    "Conditional Probability.md",
+    "Pasted image 20201105170902.png",
+    "Untitled.md"
   ]
 }
