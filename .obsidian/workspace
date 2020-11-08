@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d4dd5299a6c2b328",
+        "id": "c80ccef833e3ac2c",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Sigmoid Function.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -63,9 +60,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Sigmoid Function.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -76,15 +71,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Sigmoid Function.md",
-    "Activation Function.md",
-    "Data Preprocessing.md",
-    "Bayes's Theorem.md",
-    "Gaussian Probability Distribution.md",
-    "One-hot Encoding.md",
-    "Data preprocessing.md",
+    "Scikit-Learn Preprocessing Tips.md",
     "Conditional Probability.md",
-    "Pasted image 20201105170902.png",
+    "Bayes's Theorem.md",
+    "Activation Function.md",
+    "Scikit-Learn.md",
+    "Data Preprocessing.md",
+    "Gaussian Probability Distribution.md",
+    "Matplotlib Tips.md",
+    "Scikit-Learn Tip.md",
     "Untitled.md"
   ]
 }
