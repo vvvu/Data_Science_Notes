@@ -4,13 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "c80ccef833e3ac2c",
+        "id": "dc8aa100e8f4a967",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "Gradient Boosting Decision Tree.md",
+            "mode": "source"
+          }
+        },
+        "group": "1582fa45b928a7e3"
+      },
+      {
+        "id": "347437e25304cd9e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Gradient Boosting Decision Tree.md",
+            "mode": "preview"
+          }
+        },
+        "group": "1582fa45b928a7e3"
       }
     ],
     "direction": "vertical"
@@ -60,7 +76,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Gradient Boosting Decision Tree.md"
+              }
             }
           }
         ]
@@ -71,15 +89,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Scikit-Learn Preprocessing Tips.md",
-    "Conditional Probability.md",
-    "Bayes's Theorem.md",
-    "Activation Function.md",
-    "Scikit-Learn.md",
+    "Gradient Boosting Decision Tree.md",
+    "Boosting.md",
+    "Decision Tree.md",
+    "Bagging.md",
+    "AdaBoost.md",
+    "Gradient Boosting.md",
     "Data Preprocessing.md",
-    "Gaussian Probability Distribution.md",
-    "Matplotlib Tips.md",
-    "Scikit-Learn Tip.md",
+    "Ensemble Learning.md",
+    "Bayes's Theorem.md",
     "Untitled.md"
   ]
 }
