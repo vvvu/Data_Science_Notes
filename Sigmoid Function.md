@@ -48,7 +48,7 @@ $$
 1. 将$z$变换一下得到$$z = ln\frac{P(x|C1)}{p(x|C2)} + ln\frac{P(C1)}{P(C2)}$$
 2. 其中$P(C1)/P(C2)$非常容易求解，假设$C1$类别在Training_Data中出$N_1$次，$C2$类别出现$N_2$次。则$$ln\frac{P(C1)}{P(C2)} = ln\frac{\frac{N_1}{N_1+N_2}}{\frac{N_2}{N_1+N_2}} = ln\frac{N_1}{N_2}$$
 3. 而$P(x|C1)$和$P(x|C2)$遵循 [[Gaussian Probability Distribution#Multivariate Bivariate Gaussian Distribution]]
-	我们认为两个Class的协方差矩阵，即$\Sigma_1 = \Sigma_2 = \Sigma$ ![[Images/Pasted image 20201105170902.png]]。原因参照这这篇文章[^2]，**「如果我们协方差矩阵不相等，那我们的决策边界（超平面）是抛物线的，只有在想等的情况下才是线性的」**
+	我们认为两个Class的协方差矩阵，即$\Sigma_1 = \Sigma_2 = \Sigma$ ![[Pasted image 20201105170902.png]]。原因参照这这篇文章[^2]，**「如果我们协方差矩阵不相等，那我们的决策边界（超平面）是抛物线的，只有在想等的情况下才是线性的」**
 	综上，因为$\Sigma_1 =\Sigma_2$，则可以将$z$化简为如下形式$$z = (\mu_1-\mu_2)\Sigma^{-1}x - \frac{1}{2}\mu_1^T\Sigma^{-1}\mu_1+\frac{1}{2}\mu_2^T\Sigma^{-1}\mu_2 + ln\frac{N_1}{N_2}$$
 	实际上这本身就是一个线性函数，前面的部分为$x$向量的系数，后面的部分为bias
 4. 综上，我们的目标就是寻找最佳的$N_1,N_2,\mu_1,\mu_2,\Sigma$让$P(C1|x)$最大化

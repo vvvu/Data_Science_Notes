@@ -5,7 +5,7 @@
 3. 后一个Model关注前一个Model表现不佳的地方，且因为此所以是**Learning Sequentially** 
 4. **Boosting Model's** key is learning from the **previous mistakes.**
 ## Process
-![[Images/Screen Shot 2020-11-09 at 16.02.53.png]]
+![[Screen Shot 2020-11-09 at 16.02.53.png]]
 **Boosting**算法的一个最直观思想为：后面的 Model 需要关注前面 Model 表现不佳的地方
 1. 在Entire Dataset上训练 Model $f_1(x)$
 2. 对 $f_1(x)$ 表现较差的数据提高权重，在Reweighted Entire Dataset上训练 Model $f_2(x)$
