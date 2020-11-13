@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sigmoid Function.md",
+            "file": "Data Preprocessing.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sigmoid Function.md",
+            "file": "Data Preprocessing.md",
             "mode": "preview"
           }
         },
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sigmoid Function.md"
+                "file": "Data Preprocessing.md"
               }
             }
           }
@@ -89,6 +89,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Data Preprocessing.md",
+    "Data Augmentation.md",
     "Sigmoid Function.md",
     "Scikit-Learn Preprocessing Tips.md",
     "Scikit-Learn.md",
@@ -96,8 +98,6 @@
     "One-hot Encoding.md",
     "NaN & Missing Values.md",
     "Matplotlib Tips.md",
-    "Learning Rate.md",
-    "Gradient Boosting Decision Tree.md",
-    "Gaussian Probability Distribution.md"
+    "Learning Rate.md"
   ]
 }

@@ -1,4 +1,6 @@
 # Data Augmentation - How to use Deep Learning When You Have Limited Data
+## Tips
+- 适用场景：一般应用于Computer Vision领域，即涉及图像处理和计算机视觉
 ## Q & A
 1. Q : Why do we need more data
 	A : State-of-the-art neural networks typically have parameters in the order of millions! So **if you have a lot of parameters, you would need to show your machine learning model a proportional amount of samples**[^1]
