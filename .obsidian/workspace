@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "25d9f9b6e5f49de8",
+        "id": "dd5f030fe456517a",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Anomaly Detection.md",
-            "mode": "preview"
+            "file": "Variational Auto-encoder.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anomaly Detection.md",
+                "file": "Variational Auto-encoder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Anomaly Detection.md",
-    "Anomaly Detection On Audio.md",
-    "Anomaly Detection On Image.md",
-    "Time Series Anomaly Detection.md",
+    "Variational Auto-encoder.md",
     "Untitled.md",
-    "Perceptron.md",
     "Neuron [ Biology Concept ].md",
-    "One-hot Encoding.md",
     "Matplotlib Tips.md",
-    "Learning Rate.md"
+    "VAE.md",
+    "Auto-encoder.md",
+    "Prior Probability & Posterior Probability.md",
+    "Bayes's Theorem.md",
+    "KL Divergence.md",
+    "Extended Isolation Forest.md"
   ]
 }
