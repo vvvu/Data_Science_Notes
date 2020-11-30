@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "dd5f030fe456517a",
+        "id": "470d9b23aa3794a0",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Variational Auto-encoder.md",
+            "file": "Estimation.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "c9e87572904b7d12"
+      },
+      {
+        "id": "d9bed0db2d247831",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Estimation.md",
+            "mode": "preview"
+          }
+        },
+        "group": "c9e87572904b7d12"
       }
     ],
     "direction": "vertical"
@@ -42,7 +55,7 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -69,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Variational Auto-encoder.md",
+                "file": "Estimation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Estimation.md",
     "Variational Auto-encoder.md",
+    "Ensemble Learning.md",
+    "Moment.md",
+    "Random Variable.md",
+    "Variational Inference.md",
     "Untitled.md",
-    "Neuron [ Biology Concept ].md",
-    "Matplotlib Tips.md",
-    "VAE.md",
-    "Auto-encoder.md",
-    "Prior Probability & Posterior Probability.md",
-    "Bayes's Theorem.md",
-    "KL Divergence.md",
-    "Extended Isolation Forest.md"
+    "Law of Large Numbers.md",
+    "Principal Components Analysis (PCA).md",
+    "Covariance.md"
   ]
 }
